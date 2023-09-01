@@ -1,0 +1,4 @@
+#Thu Aug 31 20:18:47 WIB 2023
+base.0=/Users/macbookair/iCloudDrive(Archive)-2/Documents/projectaplikasi/flutterbootcamp/projek/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
